@@ -21,7 +21,8 @@ app()->make(Support::class)
 
 Requires:
 
--   PHP => 8.1
+- `gd` extension
+- PHP => 8.1
 
 ## Usage
 
