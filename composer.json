@@ -21,7 +21,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "RowBloom\\SpreadsheetDataLoader\\": "src/"
+            "RowBloom\\SpreadsheetDataLoader\\": "/"
         }
     },
     "autoload-dev": {},
